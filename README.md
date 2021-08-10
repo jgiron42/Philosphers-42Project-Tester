@@ -1,6 +1,9 @@
-# Philosophers Project Tester
+# Philosophers Project Tester 2021
 
-A script to test your Philosopher Project programs, philo_one, philo_two and philo_three.
+this repo is a fork of [Philosphers-42Project-Tester](https://github.com/jgiron42/Philosphers-42Project-Tester.git) made by [newlinuxbot](https://github.com/newlinuxbot) adapted to the new subject (2021)
+
+
+A script to test your Philosopher Project programs, philo and philo_bonus.
 
 it only tests your programs by giving them specific arguments, and it doesn't check protection against scrambled output etc... 
 
@@ -12,8 +15,7 @@ it only tests your programs by giving them specific arguments, and it doesn't ch
 
 ```bash
 Usage: start.sh <Project Folder> <Test Type>
-	Type 0: test philo_one, philo_two and philo_three
-	Type 1: test philo_one only
-	Type 2: test philo_two only
-	Type 3: test philo_three only
+	Type all:       test philo and philo_bonus"
+	Type mandatory: test philo only"
+	Type bonus:     test philo_bonus only"
 ```
